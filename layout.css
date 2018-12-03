@@ -1,0 +1,19 @@
+.baseFont {
+  font-size: 16px;
+}
+.freeDelivery {
+  font-size: 16px;
+  color: green;
+}
+.adMessage {
+  font-size: 16px;
+  color: teal;
+}
+.contact {
+  font-size: 16px;
+  color: blue;
+}
+div h4 {
+  text-align: center;
+  color: teal;
+}
